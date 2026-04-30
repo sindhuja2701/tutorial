@@ -4,4 +4,6 @@ Here's our todo:
 
 - [x] Create a new file
 - [x] Make our first commit
-- [ ] Fix this tpyo
+- [x] Fix this typo
+
+Adding a change 
